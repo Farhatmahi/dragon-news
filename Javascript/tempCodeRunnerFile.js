@@ -1,0 +1,1 @@
+lt.push(words[i]);
